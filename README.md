@@ -32,7 +32,7 @@ by 網址內文中第3步
     
     git add README.md
 
-### **加入暫存區 並註記**
+### **從暫存區加入倒repo 並註記**
     
     git commit -m "new code"
 

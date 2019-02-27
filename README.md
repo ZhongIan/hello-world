@@ -38,7 +38,7 @@ by 網址內文中第3步
 
 ### **設定遠端結點**
 
-    git remote add origin git@github.com/ZhongIan/hello-world.git
+    git remote add origin https://github.com/ZhongIan/hello-world.git
 
     說明：
 
